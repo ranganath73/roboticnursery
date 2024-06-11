@@ -1,1 +1,4 @@
-public class Male { }
+public class Male extends Other
+{
+    
+}
