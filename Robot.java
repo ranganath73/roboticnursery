@@ -1,4 +1,4 @@
-public class Robot extends Others 
+public class Robot extends Humanoid 
 {
 
 }
