@@ -1,1 +1,4 @@
-public class Others extends Humanoid { }
+public class Others
+{
+
+}
