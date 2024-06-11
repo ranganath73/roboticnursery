@@ -1,4 +1,4 @@
-public class Male extends Other
+public class Male extends Humanoid
 {
     
 }
